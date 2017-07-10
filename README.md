@@ -1,1 +1,2 @@
-# Curso-Programaci-n-B-sico---Julio-2017
+# CursoProgramacionBasico
+## Julio 2017
